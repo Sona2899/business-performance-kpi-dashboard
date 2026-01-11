@@ -51,7 +51,7 @@ Analyzed **30,000+ sales and returns records across 5 regions** by joining multi
 ---
 
 ## 💡 Key Insights
-- Identified a **~20% performance gap** between regions
+- Identified a **~16-20% performance gap** between regions 
 - **South** emerged as the top-performing region
 - **North** showed lower contribution, highlighting improvement potential
 - Insights support **monthly leadership decision-making**
@@ -67,3 +67,15 @@ Analyzed **30,000+ sales and returns records across 5 regions** by joining multi
 ---
 
 ## 📁 Project Structure
+data/ → Raw CSV files
+sql/ → KPI & analysis queries
+excel/ → SQL exports & cleaned files
+powerbi/ → Power BI dashboard (.pbix)
+screenshots/ → Dashboard preview images
+
+
+
+---
+
+**👤 Author:** Sona Sekaran
+
