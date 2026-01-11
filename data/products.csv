@@ -1,0 +1,201 @@
+product_id,product_name,category,cost_price
+1,Product_1,Office Supplies,1915
+2,Product_2,Furniture,1336
+3,Product_3,Office Supplies,1720
+4,Product_4,Office Supplies,641
+5,Product_5,Furniture,763
+6,Product_6,Furniture,1491
+7,Product_7,Office Supplies,1733
+8,Product_8,Technology,1609
+9,Product_9,Office Supplies,1610
+10,Product_10,Office Supplies,1336
+11,Product_11,Office Supplies,1836
+12,Product_12,Office Supplies,1848
+13,Product_13,Furniture,1151
+14,Product_14,Office Supplies,1304
+15,Product_15,Technology,898
+16,Product_16,Furniture,312
+17,Product_17,Technology,201
+18,Product_18,Technology,841
+19,Product_19,Technology,419
+20,Product_20,Technology,1789
+21,Product_21,Furniture,1054
+22,Product_22,Furniture,1959
+23,Product_23,Technology,1448
+24,Product_24,Technology,584
+25,Product_25,Furniture,1626
+26,Product_26,Furniture,1861
+27,Product_27,Furniture,1353
+28,Product_28,Office Supplies,1276
+29,Product_29,Office Supplies,1907
+30,Product_30,Office Supplies,929
+31,Product_31,Technology,1895
+32,Product_32,Office Supplies,1933
+33,Product_33,Technology,1639
+34,Product_34,Technology,446
+35,Product_35,Office Supplies,1035
+36,Product_36,Technology,1662
+37,Product_37,Office Supplies,402
+38,Product_38,Office Supplies,1407
+39,Product_39,Furniture,322
+40,Product_40,Office Supplies,600
+41,Product_41,Furniture,966
+42,Product_42,Office Supplies,493
+43,Product_43,Office Supplies,479
+44,Product_44,Furniture,1083
+45,Product_45,Furniture,1833
+46,Product_46,Office Supplies,397
+47,Product_47,Technology,1181
+48,Product_48,Furniture,1734
+49,Product_49,Technology,951
+50,Product_50,Technology,343
+51,Product_51,Technology,808
+52,Product_52,Furniture,1424
+53,Product_53,Technology,1347
+54,Product_54,Furniture,386
+55,Product_55,Technology,1549
+56,Product_56,Office Supplies,663
+57,Product_57,Office Supplies,1572
+58,Product_58,Furniture,1994
+59,Product_59,Office Supplies,859
+60,Product_60,Office Supplies,963
+61,Product_61,Technology,1154
+62,Product_62,Furniture,602
+63,Product_63,Technology,1569
+64,Product_64,Technology,1734
+65,Product_65,Technology,346
+66,Product_66,Technology,1371
+67,Product_67,Technology,1063
+68,Product_68,Technology,1934
+69,Product_69,Technology,688
+70,Product_70,Furniture,1128
+71,Product_71,Office Supplies,1863
+72,Product_72,Technology,750
+73,Product_73,Technology,537
+74,Product_74,Technology,1071
+75,Product_75,Technology,840
+76,Product_76,Technology,672
+77,Product_77,Technology,350
+78,Product_78,Office Supplies,1638
+79,Product_79,Office Supplies,1521
+80,Product_80,Technology,1834
+81,Product_81,Office Supplies,462
+82,Product_82,Furniture,1987
+83,Product_83,Technology,343
+84,Product_84,Furniture,545
+85,Product_85,Furniture,823
+86,Product_86,Technology,1216
+87,Product_87,Office Supplies,1795
+88,Product_88,Furniture,1080
+89,Product_89,Technology,201
+90,Product_90,Furniture,1096
+91,Product_91,Furniture,1527
+92,Product_92,Furniture,453
+93,Product_93,Furniture,1875
+94,Product_94,Office Supplies,652
+95,Product_95,Furniture,1260
+96,Product_96,Furniture,1383
+97,Product_97,Furniture,1214
+98,Product_98,Office Supplies,208
+99,Product_99,Furniture,1456
+100,Product_100,Furniture,1322
+101,Product_101,Office Supplies,1882
+102,Product_102,Office Supplies,1015
+103,Product_103,Office Supplies,407
+104,Product_104,Furniture,1354
+105,Product_105,Office Supplies,603
+106,Product_106,Office Supplies,351
+107,Product_107,Furniture,253
+108,Product_108,Office Supplies,1343
+109,Product_109,Furniture,1896
+110,Product_110,Technology,827
+111,Product_111,Office Supplies,786
+112,Product_112,Technology,1848
+113,Product_113,Furniture,1643
+114,Product_114,Office Supplies,1645
+115,Product_115,Furniture,303
+116,Product_116,Technology,453
+117,Product_117,Furniture,1450
+118,Product_118,Office Supplies,1335
+119,Product_119,Office Supplies,709
+120,Product_120,Technology,1696
+121,Product_121,Furniture,298
+122,Product_122,Office Supplies,352
+123,Product_123,Technology,1113
+124,Product_124,Office Supplies,1077
+125,Product_125,Office Supplies,537
+126,Product_126,Furniture,1929
+127,Product_127,Office Supplies,1021
+128,Product_128,Furniture,1386
+129,Product_129,Office Supplies,1943
+130,Product_130,Technology,1156
+131,Product_131,Office Supplies,1904
+132,Product_132,Furniture,360
+133,Product_133,Furniture,1803
+134,Product_134,Technology,1000
+135,Product_135,Office Supplies,597
+136,Product_136,Office Supplies,1500
+137,Product_137,Technology,1015
+138,Product_138,Office Supplies,1727
+139,Product_139,Office Supplies,1615
+140,Product_140,Furniture,1358
+141,Product_141,Office Supplies,1418
+142,Product_142,Office Supplies,600
+143,Product_143,Technology,839
+144,Product_144,Technology,1256
+145,Product_145,Furniture,887
+146,Product_146,Office Supplies,659
+147,Product_147,Office Supplies,1154
+148,Product_148,Office Supplies,669
+149,Product_149,Furniture,1598
+150,Product_150,Furniture,1245
+151,Product_151,Technology,949
+152,Product_152,Furniture,1893
+153,Product_153,Office Supplies,237
+154,Product_154,Office Supplies,429
+155,Product_155,Furniture,1588
+156,Product_156,Office Supplies,762
+157,Product_157,Office Supplies,637
+158,Product_158,Furniture,1999
+159,Product_159,Furniture,1506
+160,Product_160,Office Supplies,226
+161,Product_161,Office Supplies,425
+162,Product_162,Office Supplies,1500
+163,Product_163,Technology,997
+164,Product_164,Technology,1832
+165,Product_165,Technology,483
+166,Product_166,Furniture,1078
+167,Product_167,Technology,1159
+168,Product_168,Furniture,1704
+169,Product_169,Furniture,652
+170,Product_170,Technology,1219
+171,Product_171,Technology,1015
+172,Product_172,Technology,858
+173,Product_173,Office Supplies,1739
+174,Product_174,Technology,746
+175,Product_175,Office Supplies,1415
+176,Product_176,Furniture,1272
+177,Product_177,Office Supplies,1735
+178,Product_178,Technology,216
+179,Product_179,Furniture,1395
+180,Product_180,Furniture,1443
+181,Product_181,Furniture,357
+182,Product_182,Office Supplies,676
+183,Product_183,Technology,1269
+184,Product_184,Furniture,1596
+185,Product_185,Furniture,717
+186,Product_186,Furniture,298
+187,Product_187,Office Supplies,1968
+188,Product_188,Office Supplies,1260
+189,Product_189,Technology,479
+190,Product_190,Office Supplies,1572
+191,Product_191,Furniture,696
+192,Product_192,Technology,501
+193,Product_193,Furniture,380
+194,Product_194,Furniture,806
+195,Product_195,Office Supplies,1322
+196,Product_196,Technology,899
+197,Product_197,Office Supplies,1192
+198,Product_198,Office Supplies,1339
+199,Product_199,Technology,390
+200,Product_200,Furniture,452
